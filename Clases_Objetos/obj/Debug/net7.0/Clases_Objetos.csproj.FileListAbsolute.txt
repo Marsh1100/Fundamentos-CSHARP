@@ -1,0 +1,15 @@
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\obj\Debug\net7.0\Clases_Objetos.csproj.AssemblyReference.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\obj\Debug\net7.0\Clases_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\obj\Debug\net7.0\Clases_Objetos.AssemblyInfoInputs.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\obj\Debug\net7.0\Clases_Objetos.AssemblyInfo.cs
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\obj\Debug\net7.0\Clases_Objetos.csproj.CoreCompileInputs.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\bin\Debug\net7.0\Clases_Objetos.exe
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\bin\Debug\net7.0\Clases_Objetos.deps.json
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\bin\Debug\net7.0\Clases_Objetos.runtimeconfig.json
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\bin\Debug\net7.0\Clases_Objetos.dll
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\bin\Debug\net7.0\Clases_Objetos.pdb
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\obj\Debug\net7.0\Clases_Objetos.dll
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\obj\Debug\net7.0\refint\Clases_Objetos.dll
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\obj\Debug\net7.0\Clases_Objetos.pdb
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\obj\Debug\net7.0\Clases_Objetos.genruntimeconfig.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Clases_Objetos\obj\Debug\net7.0\ref\Clases_Objetos.dll

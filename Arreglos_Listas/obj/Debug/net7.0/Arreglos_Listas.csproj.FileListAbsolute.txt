@@ -1,0 +1,15 @@
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\bin\Debug\net7.0\Arreglos_Listas.exe
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\bin\Debug\net7.0\Arreglos_Listas.deps.json
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\bin\Debug\net7.0\Arreglos_Listas.runtimeconfig.json
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\bin\Debug\net7.0\Arreglos_Listas.dll
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\bin\Debug\net7.0\Arreglos_Listas.pdb
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\obj\Debug\net7.0\Arreglos_Listas.csproj.AssemblyReference.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\obj\Debug\net7.0\Arreglos_Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\obj\Debug\net7.0\Arreglos_Listas.AssemblyInfoInputs.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\obj\Debug\net7.0\Arreglos_Listas.AssemblyInfo.cs
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\obj\Debug\net7.0\Arreglos_Listas.csproj.CoreCompileInputs.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\obj\Debug\net7.0\Arreglos_Listas.dll
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\obj\Debug\net7.0\refint\Arreglos_Listas.dll
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\obj\Debug\net7.0\Arreglos_Listas.pdb
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\obj\Debug\net7.0\Arreglos_Listas.genruntimeconfig.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Arreglos_Listas\obj\Debug\net7.0\ref\Arreglos_Listas.dll

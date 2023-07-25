@@ -1,0 +1,15 @@
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\bin\Debug\net7.0\Tipo_de_Datos.exe
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\bin\Debug\net7.0\Tipo_de_Datos.deps.json
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\bin\Debug\net7.0\Tipo_de_Datos.runtimeconfig.json
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\bin\Debug\net7.0\Tipo_de_Datos.dll
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\bin\Debug\net7.0\Tipo_de_Datos.pdb
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\obj\Debug\net7.0\Tipo_de_Datos.csproj.AssemblyReference.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\obj\Debug\net7.0\Tipo_de_Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\obj\Debug\net7.0\Tipo_de_Datos.AssemblyInfoInputs.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\obj\Debug\net7.0\Tipo_de_Datos.AssemblyInfo.cs
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\obj\Debug\net7.0\Tipo_de_Datos.csproj.CoreCompileInputs.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\obj\Debug\net7.0\Tipo_de_Datos.dll
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\obj\Debug\net7.0\refint\Tipo_de_Datos.dll
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\obj\Debug\net7.0\Tipo_de_Datos.pdb
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\obj\Debug\net7.0\Tipo_de_Datos.genruntimeconfig.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Tipo_de_Datos\obj\Debug\net7.0\ref\Tipo_de_Datos.dll

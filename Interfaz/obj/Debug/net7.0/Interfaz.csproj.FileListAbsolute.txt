@@ -1,0 +1,15 @@
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\obj\Debug\net7.0\Interfaz.csproj.AssemblyReference.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\obj\Debug\net7.0\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\obj\Debug\net7.0\Interfaz.AssemblyInfoInputs.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\obj\Debug\net7.0\Interfaz.AssemblyInfo.cs
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\obj\Debug\net7.0\Interfaz.csproj.CoreCompileInputs.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\bin\Debug\net7.0\Interfaz.exe
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\bin\Debug\net7.0\Interfaz.deps.json
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\bin\Debug\net7.0\Interfaz.runtimeconfig.json
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\bin\Debug\net7.0\Interfaz.dll
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\bin\Debug\net7.0\Interfaz.pdb
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\obj\Debug\net7.0\Interfaz.dll
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\obj\Debug\net7.0\refint\Interfaz.dll
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\obj\Debug\net7.0\Interfaz.pdb
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\obj\Debug\net7.0\Interfaz.genruntimeconfig.cache
+D:\Documents\Campus Programmer\Fundamentos CSHARP\Interfaz\obj\Debug\net7.0\ref\Interfaz.dll
